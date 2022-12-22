@@ -1,6 +1,7 @@
 var characterLength = 8;
 var choiceArr = [];
 
+
 var specialCharArr = ['!','@','#','$','%','^','&','*'];
 var lowerCaseArr = ['a','s','d','f','g','h','j','k','l','y','q','w','e','r'];
 var upperCaseArr = ['Z','X','C','V','B','N','M','I','O','P','L','E','T','W','Q','D','S','A'];
